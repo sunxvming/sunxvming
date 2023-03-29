@@ -10,7 +10,7 @@ I am an untrained programmer. I studied marketing in college and taught myself p
 
 ## 👀 My github Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunxvming&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true&count_private=true&hide_title=true" alt="sunxvming's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunxvming&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sunxvming&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true&count_private=true&hide_title=true" alt="sunxvming's github stats" />| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sunxvming&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 
