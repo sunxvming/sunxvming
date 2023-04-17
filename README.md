@@ -5,7 +5,7 @@
 
 &ensp;🛠 Back-end software engineer.
 
-&ensp;📝 Having been coding more than 7 years.
+&ensp;📝 Having been coding more than 8 years.
 
 &ensp;🔭 Current focuses on Rust.
 
